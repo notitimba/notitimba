@@ -1,8 +1,6 @@
-### Hi there 👋
+<h1>Notitimba</h1.
 
 
-check 
--->
 <a href="https://notitimba.win/">Notitimba</a>
 
 Disponemos del Sistema de Estadísticas más completo, confiable y eficiente del mercado, con múltiples alternativas para realizar una infinidad de consultas diferentes. Además es totalmente gratuito y muy sencillo de utilizar. En pocos clics, usted llegará al dato que busca.
