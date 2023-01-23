@@ -1,4 +1,4 @@
-<h1>Notitimba</h1.
+<h1>Notitimba</h1>
 
 
 <a href="https://notitimba.win/">Notitimba</a>
